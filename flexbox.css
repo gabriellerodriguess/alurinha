@@ -1,0 +1,42 @@
+.container-cabecalho-principal .container-cabecalho-divisao{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.container-lista{
+    display: flex;
+}
+
+.container-lista a{
+    margin-left: 10px;
+}
+
+.container-nav-rodape{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.container-links{
+    display: flex;
+    flex-flow: column wrap;
+}
+
+
+.container-rodape-final .container-final {
+    display: flex;
+    align-items: center;
+}
+.lista-imagens-final {
+    display: flex;
+    align-items: center;
+    width: 75%;
+    justify-content: space-around;
+}  
+
+
+.contato-form-inputs {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 25%s
+}

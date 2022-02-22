@@ -297,8 +297,9 @@ body{
 		background-color: #9799A6;
 	}
 
-	.container-titulotitulo {
+	.container-titulo {
 		margin: 0;
+        text-align: center;
 	}
 
 	.container-navegacao .container-lista {
